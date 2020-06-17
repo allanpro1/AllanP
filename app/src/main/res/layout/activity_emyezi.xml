@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#090909"
+    tools:context=".emyezi">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="601dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp">
+
+    <Button
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:editable="false"
+        android:text="Gatonnya"
+        android:textColor="#FBFBFB"
+        android:textSize="20dp"
+        android:background="#0A524B"
+        android:textAlignment="textStart"
+        android:layout_marginBottom="4.3dp"/>
+
+        <Button
+            android:id="@+id/textpView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#0A524B"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="4.3dp"
+            android:editable="false"
+            android:text="Mukutulansanja"
+            android:textColor="#FBFBFB"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/textVirew"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#0A524B"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="4.3dp"
+            android:editable="false"
+            android:text="Mugulansigo"
+            android:textColor="#FBFBFB"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/textVielw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#0A524B"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="4.3dp"
+            android:editable="false"
+            android:text="Kafumulampawu"
+            android:textColor="#FBFBFB"
+            android:textSize="20dp" />
+        <Button
+            android:id="@+id/textViefw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#0A524B"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="4.3dp"
+            android:editable="false"
+            android:text="Muzigo"
+            android:textColor="#FBFBFB"
+            android:textSize="20dp" />
+        <Button
+            android:id="@+id/texxytVdhiew"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#0A524B"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="4.3dp"
+            android:editable="false"
+            android:text="Ssebaseka"
+            android:textColor="#FBFBFB"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/textVdchiew"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#0A524B"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="4.3dp"
+            android:editable="false"
+            android:text="Kasambula"
+            android:textColor="#FBFBFB"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/textVddfhiew"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#0A524B"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="4.3dp"
+            android:editable="false"
+            android:text="Muwakanya"
+            android:textColor="#FBFBFB"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/texuotVdhiew"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#0A524B"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="4.3dp"
+            android:editable="false"
+            android:text="Mutunda"
+            android:textColor="#FBFBFB"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/textVdhiew"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#0A524B"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="4.3dp"
+            android:editable="false"
+            android:text="Mukulukusabitungotungo"
+            android:textColor="#FBFBFB"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/textVhjhjhdhiew"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#0A524B"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="4.3dp"
+            android:editable="false"
+            android:text="Musenene"
+            android:textColor="#FBFBFB"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/tew"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#0A524B"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="4.4dp"
+            android:editable="false"
+            android:text="Ntevu"
+            android:textColor="#FBFBFB"
+            android:textSize="20dp" />
+
+
+
+
+
+
+    </LinearLayout>
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

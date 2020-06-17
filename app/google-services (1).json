@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "666045480152",
+    "firebase_url": "https://buganda-ku-ntikko.firebaseio.com",
+    "project_id": "buganda-ku-ntikko",
+    "storage_bucket": "buganda-ku-ntikko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666045480152:android:69a186e1c8e7632c9e6bad",
+        "android_client_info": {
+          "package_name": "com.example.bugandakuntikko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666045480152-l1ocafhunksrseiqc8qqeq2288ekc9bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH95ahXwaAPX1jET1Fm6ON4jwEzMQ7bV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666045480152-l1ocafhunksrseiqc8qqeq2288ekc9bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

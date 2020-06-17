@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+android:background="#fff"
+    tools:context=".amannya">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="601dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp">
+
+        <Button
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:text="Beene"
+            android:textColor="#ffff"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/textVi90998ew2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bemba"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"
+            />
+
+        <Button
+            android:id="@+id/textViewa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Musota"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/textViewh2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bbaffe"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/textVbiew2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ssabataka"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ssalongo"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/tehhxtView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ccuucu"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/texghtView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Namunswa"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/texthView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lukeberwa"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/textVibew2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mulyazzaawo"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/textjjView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ssemanda"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+
+
+
+
+        <Button
+            android:id="@+id/textVibmew2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mpologoma"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/texxxtView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sseggwanga"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/textVihkew2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Musisi"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/textVi90ew2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ssekkesa"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="textStart"
+            android:textSize="23dp"/>
+
+        <Button
+            android:id="@+id/textV1iew2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Maaso moogi"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/textView28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ssabasajja"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/te87xtView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:text="Ssempeebwa"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/te09xtView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ssemunywa"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+
+
+        <Button
+            android:id="@+id/texxtView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ssemwanga"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+
+        <Button
+            android:id="@+id/te002"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lukeberwa"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+
+        <Button
+            android:id="@+id/tex"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Empalabwe"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+
+
+
+        <Button
+            android:id="@+id/ti2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ppemenku"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/w2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ssebunya"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+
+        <Button
+            android:id="@+id/tetView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mpologoma"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/excffjxtView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sseggwanga"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+
+        <Button
+            android:id="@+id/texView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Omutanda"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+
+        <Button
+            android:id="@+id/te6789"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bukajumbe"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+
+        <Button
+            android:id="@+id/top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Maasomoogi"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+        <Button
+            android:id="@+id/tii"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Empalabwe"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:textAlignment="textStart"
+            android:layout_marginBottom="5dp"/>
+
+
+
+
+
+        <Button
+            android:id="@+id/texcffj"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bukaajumbe"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="textStart"
+            android:textSize="20dp"/>
+
+
+        <Button
+            android:id="@+id/texcff99jxtView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Miranda"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="textStart"
+            android:textSize="20dp"/>
+
+        <Button
+            android:id="@+id/t90"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mulwanya mmuli"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="textStart"
+            android:textSize="20dp"/>
+
+
+
+
+        <Button
+            android:id="@+id/texcffjxtView0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Luwangula"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="textStart"
+            android:textSize="20dp"/>
+
+        <Button
+            android:id="@+id/texcffjxtView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lumoma nantawetwa"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="textStart"
+            android:textSize="20dp"/>
+
+        <Button
+            android:id="@+id/t"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mufumbyagganda"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="textStart"
+            android:textSize="20dp"/>
+
+        <Button
+            android:id="@+id/texnntView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="KabwejunBira"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="textStart"
+            android:textSize="20dp"/>
+
+        <Button
+            android:id="@+id/texbhtView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ssebuufubwango"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="textStart"
+            android:textSize="20dp"/>
+
+        <Button
+            android:id="@+id/texbtView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nntalinnya mu kateebe"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="textStart"
+            android:textSize="20dp"/>
+
+        <Button
+            android:id="@+id/t77"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Omuti ogubala ensimbi n'ebikomo"
+            android:background="#4F4F4F"
+            android:editable="false"
+            android:textColor="#FFFFFF"
+            android:textAlignment="textStart"
+            android:textSize="20dp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>
+</RelativeLayout>
